@@ -13,15 +13,15 @@ options(warn = -1)
 ################################
 
 COMPUTE_MFFC <- FALSE
-DATA_PATH <- "./data/"
+DATA_PATH <- "./audio_recordings/"
 
 ################################
 # Load annotations
 ################################
 
-info <- read.table(paste(DATA_PATH, "annotations.csv", sep = "/"),
-                   sep = ",",
-                   header = TRUE)
+info <- read.table("annotations.csv",
+                sep = ",",
+                header = TRUE)
 n <- nrow(info)
 
 ##############################
