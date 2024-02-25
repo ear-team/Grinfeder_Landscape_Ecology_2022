@@ -121,5 +121,7 @@ maad/__pycache__/__init__.cpython-36.pyc
 *.code-workspace
 
 #data
-/audio_recordings
+*.wav
+*.csv
+*.zip
 /14_06_19_Svg_R_Elie_Rissoux
