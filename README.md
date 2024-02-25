@@ -1,8 +1,7 @@
 # Soundscape dynamics of a cold protected forest: dominance of aircraft noise
 
-[![Downloads](https://static.pepy.tech/badge/Grinfeder_Landscape_Ecology_2022)](https://pepy.tech/project/Grinfeder_Landscape_Ecology_2022)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=110.1007/s10980-021-01360-1)](https://juleskreuer.eu/projekte/citation-badge/)
+[![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1007/s10980-021-01360-1)](https://juleskreuer.eu/projekte/citation-badge/)
 
 This repository contains the code adapted from the original code used by the article https://link.springer.com/article/10.1007/s10980-021-01360-1
 
